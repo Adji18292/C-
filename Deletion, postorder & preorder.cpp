@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// NAMA : ADJI SETYAWAN SAPUTRA
 struct Node {
     int data;
     Node* left;
